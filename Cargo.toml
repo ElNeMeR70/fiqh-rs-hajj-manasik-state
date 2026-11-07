@@ -1,0 +1,10 @@
+[package]
+name = "fiqh-rs-hajj-manasik-state"
+version = "1.0.0"
+edition = "2021"
+description = "Hajj & Umrah Manasik State-Machine (Tamattu, Qiran, Ifrad)"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "fiqh_rs_hajj_manasik_state"
+path = "main.rs"
